@@ -1,7 +1,0 @@
-sample,fastq_1,fastq_2,strandedness
-CONTROL1_REP1,fastq/CONTROL1_REP1.fastq.gz,,auto
-CONTROL1_REP2,fastq/CONTROL1_REP2.fastq.gz,,auto
-TREATMENT1_REP1,fastq/TREATMENT1_REP1.fastq.gz,,auto
-TREATMENT1_REP2,fastq/TREATMENT1_REP2.fastq.gz,,auto
-TREATMENT2_REP1,fastq/TREATMENT2_REP1.fastq.gz,,auto
-TREATMENT2_REP2,fastq/TREATMENT2_REP2.fastq.gz,,auto
